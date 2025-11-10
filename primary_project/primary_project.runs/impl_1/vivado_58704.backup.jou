@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1.1 (64-bit)
+# SW Build 6233196 on Thu Sep 11 21:27:30 MDT 2025
+# IP Build 6232796 on Fri Sep 12 01:46:16 MDT 2025
+# SharedData Build 6233195 on Thu Sep 11 17:56:43 MDT 2025
+# Start of session at: Mon Nov 10 18:27:24 2025
+# Process ID         : 58704
+# Current directory  : C:/Users/nasar/OneDrive/Documents/FPGA/Clocks and Timings/primary_project/primary_project/primary_project.runs/impl_1
+# Command line       : vivado.exe -log primary_project.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source primary_project.tcl -notrace
+# Log file           : C:/Users/nasar/OneDrive/Documents/FPGA/Clocks and Timings/primary_project/primary_project/primary_project.runs/impl_1/primary_project.vdi
+# Journal file       : C:/Users/nasar/OneDrive/Documents/FPGA/Clocks and Timings/primary_project/primary_project/primary_project.runs/impl_1\vivado.jou
+# Running On         : Anita-II
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : AMD Ryzen 7 5800H with Radeon Graphics         
+# CPU Frequency      : 3194 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 16498 MB
+# Swap memory        : 16642 MB
+# Total Virtual      : 33141 MB
+# Available Virtual  : 13926 MB
+#-----------------------------------------------------------
+source primary_project.tcl -notrace
