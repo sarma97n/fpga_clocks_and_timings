@@ -1,4 +1,4 @@
-Hi this repo contains some personal projects that I have developed to teach my self how time and clocks work in Verilog. Below is a complete document for the projects that are in this repo.  
+Hi this repo contains some personal projects that I have developed to teach myself how time and clocks work in Verilog. Below is a complete document for the projects that are in this repo.  
 
 FPGA Clock and Timing Mastery Projects for Basys 3
 Author: Aditya Sarma Nuthalapati
@@ -81,7 +81,7 @@ Closing Note
 These projects are intended to move you from writing functional RTL to designing for performance and hardware predictability. Once completed, you’ll have practical grounding in how real FPGA clock networks, timing paths, and synchronizers behave under load.
 The goal isn’t just to code—it’s to think and execute like a timing-aware RTL designer.
 
-These projects can be directly run with the help of the tcl file. Just download the repo to your local system and open the Xilinx Vivado 2025.1.1 and you should be able see the complete built.
+These projects can be directly run with the help of the tcl file. Just clone the repo to your local system and open the Xilinx Vivado 2025.1.1 and you should be able see the complete built.
 
 Happy Learning,
 Regards,
