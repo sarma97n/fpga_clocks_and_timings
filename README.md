@@ -34,7 +34,7 @@ Design a dual-clock data transfer system that moves data between asynchronous cl
 Background
 This project introduces clock domain crossing (CDC), one of the most important concepts in professional RTL work. You’ll design a small system that uses independent clock sources and ensures clean communication between them without data corruption.
 Tasks
-1.	Clock Generation: Use the Vivado Clocking Wizard to derive two blocks from the 100 MHz source: one at 50 MHz and another at 3.125 MHz.
+1.	Clock Generation: Use the Vivado Clocking Wizard to derive two blocks from the 100 MHz source: one at 50 MHz and another at 5 MHz.
 2.	FIFO Design: Create a dual-clock FIFO that allows data writes in one domain and reads in another. Implement full, empty, and error flags.
 3.	Data Path and Indicators: Input 8-bit data through switches and observe received values on LEDs. Add a visual indicator for FIFO errors or metastability warnings.
 4.	Verification and Analysis: Simulate the design using phase-shifted clocks. Check that all domain crossings use synchronizers or the FIFO interface. Analyse Vivado’s timing summary to confirm no unsafe paths remain.
